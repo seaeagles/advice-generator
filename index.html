@@ -10,6 +10,7 @@
 
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
   <link rel="stylesheet" href="styles.css"> 
+  <script defer src="app.js"></script>
 </head>
 <body>
   <div id="wrapper">
@@ -17,22 +18,21 @@
       <h2>Advice #{}</h2>
     </header>
 
-    <div id="advice-box">
-      "<!-- Advice text goes here -->"
+    <div class="content" id="advice-box">
+      "placeholder text"
     </div>
 
-    <div id="linebreak"></div>
+    <div id="linebreak"><img src="/images/pattern-divider-mobile.svg" alt="dividing line"></div>
 
     <button>
-      <img src="/images/icon-dice.svg" alt="dice button"/>
+      <img id="dice-img" src="/images/icon-dice.svg" alt="dice button"/>
     </button>
   
-  
-    <div class="attribution">
-      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-      Coded by <a href="#">Dave M</a>.
-    </div>
+  </div>
 
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Dave M</a>.
   </div>
 </body>
 </html>
