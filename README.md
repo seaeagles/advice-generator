@@ -1,6 +1,10 @@
-# Frontend Mentor - Advice generator app solution
+# Advice generator app solution
 
-This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+(This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).)
+
+Don't let the name fool you! I deviated slightly from the requirements for this project. 
+
+While initially I set out to have the app pull advice and other helpful quotes per the project guidelines, I stumbled upon an API that can pull multilingual quotes instead and thought that might be more fun. So, it's become more of a random quote-translated-into-German generator. 
 
 ## Table of contents
 
@@ -12,8 +16,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
