@@ -10,7 +10,7 @@ const options = {
 	method: 'GET',
 	headers: {
 		'content-type': 'application/octet-stream',
-		'X-RapidAPI-Key': 'd92cd91f47mshf3f0e794d03ee44p16dacajsn6bc7e2a1ee61',
+		'X-RapidAPI-Key': '',
 		'X-RapidAPI-Host': 'quotes15.p.rapidapi.com'
 	}
 };
